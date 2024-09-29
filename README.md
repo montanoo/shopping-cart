@@ -9,3 +9,4 @@ Integrantes:
 
 - Alexandra María Henríquez Miranda HM232507
 - Fernando Josué Montano González MG210111
+- David Gerardo Menjívar Ramírez MR2110455
