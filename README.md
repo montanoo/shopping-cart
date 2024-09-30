@@ -9,6 +9,7 @@ Integrantes:
 
 - Alexandra María Henríquez Miranda HM232507
 - Fernando Josué Montano González MG210111
+- Bryan Josué Alberto Elena AE210567
 - David Gerardo Menjívar Ramírez MR2110455
-- Jairo Rafael Colocho Díaz
+- Jairo Rafael Colocho Díaz CD210488
 CD210488 
